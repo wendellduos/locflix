@@ -12,9 +12,9 @@ The main functionalities are:
 
 ## Folder Scheme
 
-Movies and shows should be stored in similarly named `movies` and `shows` folders inside `contents` folder.
+Movies and shows should be stored in similarly named `movies` and `shows` folders inside a `contents` folder.
 Folders and files are preferably named using the [kebab case](https://developer.mozilla.org/en-US/docs/Glossary/Kebab_case) naming convention.
 
 ## Mobile Support
 
-Locflix is meant to work in desktop environments, but tittle screens can access the created server through the local network, browsing to **http://'yourIpAdress:5252/'**.
+Locflix is meant to work in desktop environments, but tittle screens can access the created server through the local network, browsing to **http://yourIpAdress:5252/**.
